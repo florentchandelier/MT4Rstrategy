@@ -1,12 +1,9 @@
-MT4Rstrategy
-============
-
-# OBJECTIVES
+# MT4Rstrategy OBJECTIVES
 
 Interfacing R with Metatrader for investment strategy design and management
 
 # INVESTMENT DISCLAIMER
-Thereafter, *the Disclosing Party* refers to any authors of any content of this website either directly, or indirectly through weblink. Similarly, *the Receiving Party* refers to any individual accessing the website and any content therein.
+Thereafter, **the Disclosing Party** refers to any authors of any content of this website either directly, or indirectly through weblink. Similarly, **the Receiving Party** refers to any individual accessing the website and any content therein.
 
 The Disclosing Party provides general information only, and nothing contained in the provided material constitutes a recommendation for the purchase or sale of any investment vehicle, nor applying any specific wealth management strategy.
 Although the statements of fact in potential reports are obtained from sources that may be considered reliable, the Disclosing Party does not guarantee their accuracy and any such information may be incomplete or condensed. 
