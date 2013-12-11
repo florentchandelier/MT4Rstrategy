@@ -14,7 +14,7 @@ investigating the appropriateness of such information and material having regard
 prior acting on it.
 
 The Disclosing Party expressly disclaims all liability for the use or interpretation by the Receiving Party of information and material contained in this website. Decisions are the sole responsibility of the Disclosing Party, and in exchange 
-for using the information and material contained in this website **the Receiving Party agrees to hold the Disclosing Party and its affiliates harmless against any claims for direct, or indirect, damages for decisions made by the reader based 
+for using the information and material contained in this website **the Receiving Party agrees to hold the Disclosing Party and its affiliates harmless against any claims for direct, or indirect, damages for decisions made by the Receiving Party based 
 fully or partially on such information.**
 
 # Risk(s) and Warning(s)
