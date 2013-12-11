@@ -1,7 +1,7 @@
 # OBJECTIVES
-The objective behind this repo is to leverge the statistical framework of [R](http://www.r-project.org) to design trading strategies, and further use these to trade the [$200Billion](http://www.forexbrokerz.com/news/april-retail-forex-volume-record) 
+The objective behind this repo is to leverage the statistical framework of [R](http://www.r-project.org) to design trading strategies, and further use these to trade the [$200Billion](http://www.forexbrokerz.com/news/april-retail-forex-volume-record) 
 of retail [Forex](http://en.wikipedia.org/wiki/Foreign_exchange_market) volume through the 
-[Metatrader4 platform](http://www.metatrader4.com/). **The goal** is to empower **retail Forex traders** having limited trading funds, with relevant open source solutions addressing different processes required to the making of
+[Metatrader4 platform](http://www.metatrader4.com/). **The goal** is to empower **retail Forex traders** having limited trading funds, with relevant open source solutions addressing the different processes required to the making of
 a trading strategy, but at a fragment of the cost associated to state-of-the-art trading platforms.
 
 # INVESTMENT DISCLAIMER
