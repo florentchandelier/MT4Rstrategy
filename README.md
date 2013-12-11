@@ -1,4 +1,4 @@
-# MT4Rstrategy OBJECTIVES
+# OBJECTIVES
 
 Interfacing R with Metatrader for investment strategy design and management
 
