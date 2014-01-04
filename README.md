@@ -4,7 +4,7 @@ of retail [Forex](http://en.wikipedia.org/wiki/Foreign_exchange_market) volume t
 [Metatrader4 platform](http://www.metatrader4.com/). **The goal** is to empower **retail Forex traders** having limited trading funds, with relevant open source solutions addressing the different processes required to the making of
 a trading strategy, but at a fragment of the cost associated to state-of-the-art trading platforms.
 
-# INVESTMENT DISCLAIMER
+# INVESTMENT DISCLAIMER, RISKS and WARNINGS
 REFER TO [Investment Disclaimer, Risks and Warnings](RisksWarnings.md) FOR DETAILS.
 
 ## LICENSE
